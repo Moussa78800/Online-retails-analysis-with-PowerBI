@@ -1,0 +1,1 @@
+The study focuses on identifying trends in sales behavior, customer distribution Through descriptive statistics and visual exploration, this phase provides essential insights that guide subsequent modeling and business interpretation.
